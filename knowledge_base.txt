@@ -1,0 +1,16 @@
+Company: SmartSupport Co.
+
+Refund Policy:
+Customers can request a refund within 7 days of purchase.
+
+Shipping Policy:
+Orders are processed within 2 business days. Delivery usually takes 5 to 7 business days.
+
+Support Hours:
+Customer support is available Monday to Friday from 9 AM to 5 PM.
+
+Password Reset:
+Customers can reset their password by clicking "Forgot Password" on the login page.
+
+Subscription Cancellation:
+Customers can cancel their subscription anytime from the account settings page.
